@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jetpack</string>
+    <string name="not_found">No profile found</string>
+    <string name="hello">Hello, lets get acquainted!</string>
+    <string name="naccount">Nuri Nuraini Fatin</string>
+    <string name="maccoount">nurifatin12@upi.edu</string>
+</resources>
